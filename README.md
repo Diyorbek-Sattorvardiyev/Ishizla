@@ -23,21 +23,11 @@
 - MVVM arxitektura
 
 
-## Ishga tushirish tartibi
 
-1. Android Studio orqali loyihani oching
-2. Qurilmani ulang yoki emulator ishga tushiring
-3. Build → Rebuild Project bajaring
-4. Ilovani ishga tushiring
-5. Rezyume yaratib, ish e'lonlariga javob bering
-
-## Litsenziya
-
-Loyiha ochiq manbali (open source). Barcha foydalanuvchilar uni ko‘chirib olib, o‘zgartirishlari mumkin. Litsenziya turi: MIT.
 
 ## Muallif
 
-Ismi: [Diyorbek Sattorvardiyev]  
-GitHub: [github.com/Diyorbek-Sattorvardiyev]  
-Telegram: [@DSD_S1]
+Ismi: Diyorbek Sattorvardiyev  
+GitHub: github.com/Diyorbek-Sattorvardiyev 
+Telegram: @DSD_S1
 
