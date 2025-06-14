@@ -1,0 +1,164 @@
+<resources>
+    <string name="app_name">Ishizla</string>
+    <string name="welcome_back">Xush kelibsiz!</string>
+    <string name="login_subtitle">Hisobingizga kirish uchun ma\'lumotlarni kiriting</string>
+    <string name="email_or_username">Email yoki foydalanuvchi nomi</string>
+    <string name="password">Parol</string>
+    <string name="forgot_password">Parolni unutdingizmi?</string>
+    <string name="login">Kirish</string>
+    <string name="or_login_with">YOKI</string>
+    <string name="dont_have_account">Hisobingiz yo\'qmi?</string>
+    <string name="register_now">Ro\'yxatdan o\'tish</string>
+    <string name="google_login">Google orqali kirish</string>
+    <string name="facebook_login">Facebook orqali kirish</string>
+    <string name="twitter_login">Twitter orqali kirish</string>
+    <string name="app_logo">Ilova logotipi</string>
+
+    <!-- Registration -->
+    <string name="create_account">Hisob yaratish</string>
+    <string name="register_subtitle">Ma\'lumotlaringizni kiriting</string>
+    <string name="full_name">To\'liq ism</string>
+    <string name="email">Email</string>
+    <string name="phone_number">Telefon raqami</string>
+    <string name="confirm_password">Parolni tasdiqlang</string>
+    <string name="register">Ro\'yxatdan o\'tish</string>
+    <string name="already_have_account">Hisobingiz bormi?</string>
+    <string name="login_now">Kirish</string>
+    <string name="agree_to_terms">Men roziman</string>
+    <string name="terms_and_conditions">Shartlar va qoidalar</string>
+    <string name="back">Orqaga</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Salom bo\'sh fragment</string>
+    <string name="navigation_drawer_open">Navigatsiya menyusini ochish</string>
+    <string name="navigation_drawer_close">Navigatsiya menyusini yopish</string>
+
+    <!-- Login and Register -->
+
+    <string name="name">Ism</string>
+    <string name="phone">Telefon</string>
+    <string name="address">Manzil</string>
+    <string name="user_type">Foydalanuvchi turi</string>
+    <string name="job_seeker">Ish qidiruvchi</string>
+    <string name="employer">Ish beruvchi</string>
+
+
+    <!-- Home -->
+    <string name="home">Bosh sahifa</string>
+    <string name="profile">Profil</string>
+    <string name="my_jobs">Mening ishlarim</string>
+    <string name="messages">Xabarlar</string>
+    <string name="create_resume">Rezyume yaratish</string>
+    <string name="search">Qidirish</string>
+    <string name="logout">Chiqish</string>
+    <string name="no_jobs_found">Ishlar topilmadi.</string>
+
+    <!-- Job Details -->
+    <string name="job_details">Ish tafsilotlari</string>
+    <string name="job_title">Ish nomi</string>
+    <string name="job_description">Ish tavsifi</string>
+    <string name="job_requirements">Ish talablari</string>
+    <string name="job_location">Joylashuv</string>
+    <string name="job_salary">Maosh</string>
+    <string name="description">Tavsif</string>
+    <string name="requirements">Talablar</string>
+    <string name="apply">Ariza topshirish</string>
+    <string name="add_job">Ish qo\'shish</string>
+    <string name="post_job">Ishni e\'lon qilish</string>
+    <string name="update_job">Ishni yangilash</string>
+    <string name="edit_job">Ishni tahrirlash</string>
+    <string name="edit">Tahrirlash</string>
+    <string name="delete">O\'chirish</string>
+    <string name="error_field_required">Bu maydon to\'ldirilishi shart</string>
+    <string name="error_invalid_password">Parol kamida 4 ta belgi bo\'lishi kerak</string>
+    <string name="error_invalid_email">Noto\'g\'ri email manzili</string>
+    <string name="error_invalid_login">Noto\'g\'ri login</string>
+    <!-- Resume -->
+    <string name="education">Ta\'lim</string>
+    <string name="experience">Tajriba</string>
+    <string name="skills">Ko\'nikmalar</string>
+    <string name="about">Haqida</string>
+    <string name="education_hint">Ta\'lim ma\'lumotlaringizni kiriting (masalan, daraja, muassasa, yillar)</string>
+    <string name="experience_hint">Ish tajribangizni kiriting (masalan, lavozim, kompaniya, yillar)</string>
+    <string name="skills_hint">Ko\'nikmalaringizni kiriting (masalan, dasturlash tillari, vositalar)</string>
+    <string name="about_hint">O\'zingiz haqida qisqacha ma\'lumot</string>
+    <string name="save">Saqlash</string>
+    <string name="personal_info">Shaxsiy ma\'lumotlar</string>
+    <string name="resume_info">Rezyume ma\'lumotlari</string>
+    <string name="more">Ko\'proq</string>
+    <!-- Messages -->
+    <string name="type_message">Xabar yozing</string>
+    <string name="send">Yuborish</string>
+    <string name="no_conversations">Hali suhbatlar yo\'q.</string>
+
+    <string name="error_passwords_dont_match">Parollar mos kelmaydi</string>
+    <string name="error_email_exists">Email allaqachon ishlatilmoqda</string>
+    <string name="error_select_user_type">Iltimos foydalanuvchi turini tanlang</string>
+    <string name="registration_success">Ro\'yxatdan o\'tish muvaffaqiyatli! Iltimos tizimga kiring.</string>
+    <string name="registration_failed">Ro\'yxatdan o\'tish muvaffaqiyatsiz! Iltimos qayta urinib ko\'ring.</string>
+
+
+    <string name="error_invalid_job">Noto\'g\'ri ish</string>
+    <string name="error_job_not_found">Ish topilmadi</string>
+    <string name="delete_job">Ishni o\'chirish</string>
+    <string name="confirm_delete_job">Ushbu ish e\'lonini o\'chirishni xohlaysizmi?</string>
+    <string name="job_deleted_successfully">Ish muvaffaqiyatli o\'chirildi</string>
+    <string name="error_deleting_job">Ishni o\'chirishda xatolik yuz berdi</string>
+    <string name="posted_today_format">Bugun e\'lon qilingan • %1$s</string>
+    <string name="posted_yesterday_format">Kecha e\'lon qilingan • %1$s</string>
+    <string name="posted_days_ago_format">%1$d kun oldin e\'lon qilingan • %2$s</string>
+
+    <string name="contact_info">Aloqa ma\'lumotlari</string>
+    <string name="message_status">Yuborildi</string>
+    <string name="salary_not_specified">Ish haqi ko\'rsatilmagan</string>
+    <string name="no_messages_yet">Hali xabarlar yo\'q. Suhbatni boshlang!</string>
+    <string name="message_sent_successfully">Xabar yuborildi</string>
+    <string name="error_sending_message">Xabar yuborishda xatolik yuz berdi</string>
+    <string name="delete_message">Xabarni o\'chirish</string>
+    <string name="confirm_delete_message">Ushbu xabarni o\'chirishni xohlaysizmi?</string>
+    <string name="message_deleted">Xabar o\'chirildi</string>
+    <string name="delete_conversation">Suhbatni o\'chirish</string>
+    <string name="confirm_delete_conversation">Ushbu suhbatni to\'liq o\'chirishni xohlaysizmi?</string>
+    <string name="conversation_deleted">Suhbat o\'chirildi</string>
+    <string name="typing">Yozmoqda...</string>
+    <string name="cancel">Orqaga</string>
+    <string name="recently_posted">Yaqinda e\'lon qilingan</string>
+
+
+    <string name="create_your_resume">Rezyumengizni yarating</string>
+    <string name="resume_intro_text">Professional rezyume yaratish uchun quyidagi formani to\'ldiring. Ish beruvchilar rezyumengizni ko\'rib, sizga ish imkoniyatlari uchun murojaat qilishlari mumkin.</string>
+    <string name="save_resume">Rezyumeni saqlash</string>
+    <string name="resume_saved_successfully">Rezyume muvaffaqiyatli saqlandi</string>
+    <string name="resume_updated_successfully">Rezyume muvaffaqiyatli yangilandi</string>
+    <string name="error_saving_resume">Rezyumeni saqlashda xatolik yuz berdi</string>
+    <string name="resume_details">Rezyume tafsilotlari</string>
+    <string name="view_details">Tafsilotlarni ko\'rish</string>
+    <string name="contact_candidate">Nomzod bilan bog\'lanish</string>
+    <string name="error_invalid_resume">Noto\'g\'ri rezyume</string>
+    <string name="error_resume_not_found">Rezyume topilmadi</string>
+    <string name="job_application_message">Salom, men %1$s lavozimiga qiziqyapman. Ushbu ish uchun ariza topshirmoqchiman.</string>
+    <string name="resume_tips">Rezyume bo\'yicha maslahatlar</string>
+    <string name="resume_tip_education">Ta\'lim bo\'yicha maslahat: Eng so\'nggi darajangizni birinchi ko\'rsating. Muassasa nomi, olgan darajangiz, yo\'nalishingiz va bitirgan yilingizni ko\'rsating.</string>
+    <string name="resume_tip_experience">Tajriba bo\'yicha maslahat: Harakat fe\'llaridan foydalaning va imkon qadar yutuqlaringizni raqamlar bilan ko\'rsating. Kompaniya nomi, lavoziminiz va ishlagan sanalargizni ko\'rsating.</string>
+    <string name="resume_tip_skills">Ko\'nikmalar bo\'yicha maslahat: Qidirayotgan ishingizga aloqador bo\'lgan ham texnik, ham yumshoq ko\'nikmalarni ko\'rsating.</string>
+    <string name="resume_tip_about">O\'zingiz haqida maslahat: Qisqa va aniq bo\'ling, professional kuchli tomonlaringiz va karyera maqsadlaringizni ta\'kidlang.</string>
+    <string name="browse_resumes">Rezyumelarni ko\'rish</string>
+    <string name="search_resumes">Rezyumalarni qidirish</string>
+    <string name="no_resumes_found">Rezyumalar topilmadi</string>
+
+    <string name="error_invalid_contact">Noto\'g\'ri kontakt</string>
+    <string name="about_us">Ilova haqida</string>
+    <string name="about_app_title">Online ish va e\'lonlar portali</string>
+    <string name="about_app_description">Ushbu ilova orqali siz online ish topishingiz, o\'z xizmatlaringizni taklif qilishingiz va turli e\'lonlarni joylashtirishingiz mumkin. Ilovamiz foydalanuvchilar o\'rtasida tezkor aloqa o\'rnatish, malakali mutaxassislarni topish va ish beruvchilar uchun eng yaxshi nomzodlarni tanlash imkoniyatini beradi.</string>
+    <string name="app_features">Ilova imkoniyatlari</string>
+    <string name="feature_post_jobs">Ish va xizmat e\'lonlarini joylashtirish</string>
+    <string name="feature_find_jobs">Talabga javob beradigan ishlarni qidirish</string>
+    <string name="feature_profile">Professional profil yaratish</string>
+    <string name="feature_messaging">Ish beruvchilar bilan bevosita muloqot</string>
+    <string name="contact_us">Biz bilan bog\'lanish</string>
+    <string name="contact_email">info@jobportal.uz</string>
+    <string name="contact_phone">+998 71 123 45 67</string>
+    <string name="contact_website">www.jobportal.uz</string>
+    <string name="app_version">Versiya 1.0.0</string>
+    <string name="copyright_text">© 2025 Ishizla. Barcha huquqlar himoyalangan.</string>
+
+</resources>
