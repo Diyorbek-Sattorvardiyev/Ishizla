@@ -27,7 +27,7 @@
 
 ## Muallif
 
-Ismi: Diyorbek Sattorvardiyev  
-GitHub: github.com/Diyorbek-Sattorvardiyev 
-Telegram: @DSD_S1
+-Ismi: Diyorbek Sattorvardiyev  
+-GitHub: github.com/Diyorbek-Sattorvardiyev 
+-Telegram: @DSD_S1
 
